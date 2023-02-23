@@ -4,10 +4,11 @@ import { nanoid } from 'nanoid';
 
 import InForm from './InForm/InForm.jsx';
 import Out from './Out/Out.jsx';
+import Links from './Links.jsx';
 
 class App extends Component {
   state = {
-    urlState: [],
+    urlState: Links,
   };
   addUrl = ({ name, url, img }) => {
     const oneUrl = {
