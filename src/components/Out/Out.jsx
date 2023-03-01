@@ -1,28 +1,24 @@
-import inn from '../Links';
+import links from '../Links';
+import { nanoid } from 'nanoid';
+import s from './out.module.css';
 
-const imgLinksArr = [inn];
-
-console.log('jbj');
-const Out = (
-  { urls } //index
-) => (
-  <>
-    <div>
-      <h1>OOOOUT</h1>
-      <div>
-        {urls.map(({ id, name, url, img }) => (
-          <div key={id}>
-            <a href={url}>{name}</a>
-            {/* <img src={img} width="100" /> */}
+const Out = () => (
+  <div className={s.wrap}>
+    {links.map(({ name, url, img, note }) => (
+      <div className={s.box} key={nanoid()}>
+        <img src={img} />
+        <div className={s.f}>
+          <div className={s.circle}>
+            !
+            <div className={s.overlay}>
+              <p>{note}</p>
+            </div>
           </div>
-        ))}
+          <a href={url}>{name}</a>
+        </div>
       </div>
-    </div>
-    <img
-      src="https://cdn.shortpixel.ai/spai/w_886+q_lossy+ret_img+to_webp/https://cdn-upmostlymulti.pressidium.com/wp-content/uploads/Screenshot-2022-03-15-at-15.52.10.png"
-      width="100"
-    />
-  </>
+    ))}
+  </div>
 );
 
 export default Out;

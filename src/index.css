@@ -118,15 +118,3 @@ input {
   -webkit-appearance: none;
   border-radius: 0;
 }
-
-#root {
-  text-align: center;
-}
-#root > div {
-  display: block;
-  margin: 10px auto;
-
-  border: 1px solid blue;
-  width: 400px;
-  height: 100px;
-}
