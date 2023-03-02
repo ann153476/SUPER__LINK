@@ -6,7 +6,7 @@ const Out = () => (
   <div className={s.wrap}>
     {links.map(({ name, url, img, note }) => (
       <div className={s.box} key={nanoid()}>
-        <img src={img} />
+        <img src={img} alt="no img" />
         <div className={s.f}>
           <div className={s.circle}>
             !
