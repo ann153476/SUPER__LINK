@@ -65,7 +65,7 @@ const Links = [
     note: 'поможе надіслати запит на сервер з API зроби тіпа http посилання і можна в нього вставить шо надо [npm install axios]',
   },
   {
-    name: 'react_DOM',
+    name: 'react_ROUTER_DOM',
     url: 'https://www.npmjs.com/package/react-router-dom',
     img: react_dom,
     note: 'для створення типа нових вікон в сайті але це не нова сторінка а її частина (швидка загрузка сторінки) [npm i react-router-dom]',
