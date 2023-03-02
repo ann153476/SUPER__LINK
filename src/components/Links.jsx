@@ -13,6 +13,7 @@ import motion from '../img_links/motion.jpg';
 import prop_types from '../img_links/prop_types.jpg';
 import icon_moon from '../img_links/icon_moon.jpg';
 import axios from '../img_links/axios.jpg';
+import react_dom from '../img_links/react_dom.lpg';
 
 const Links = [
   {
@@ -62,6 +63,12 @@ const Links = [
     url: 'https://axios-http.com/uk/docs/intro',
     img: axios,
     note: 'поможе надіслати запит на сервер з API зроби тіпа http посилання і можна в нього вставить шо надо [npm install axios]',
+  },
+  {
+    name: 'react_DOM',
+    url: 'https://www.npmjs.com/package/react-router-dom',
+    img: 'react_dom',
+    note: 'для створення типа нових вікон в сайті але це не нова сторінка а її частина (швидка загрузка сторінки) [npm i react-router-dom]',
   },
 ];
 
