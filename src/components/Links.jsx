@@ -15,6 +15,7 @@ import icon_moon from '../img_links/icon_moon.jpg';
 import axios from '../img_links/axios.jpg';
 import react_dom from '../img_links/react_dom.jpg';
 import freesvg from '../img_links/freesvg.jpg';
+import redux_toolkit from '../img_links/redux_toolkit.lpg';
 
 const Links = [
   {
@@ -76,6 +77,12 @@ const Links = [
     url: 'https://www.reshot.com/free-svg-icons/arrow/?page=7',
     img: freesvg,
     note: 'халявні SVG',
+  },
+  {
+    name: 'redux_toolkit',
+    url: 'https://redux-toolkit.js.org/introduction/getting-started',
+    img: redux_toolkit,
+    note: 'npm install react-redux',
   },
 ];
 
