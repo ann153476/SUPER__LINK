@@ -18,7 +18,7 @@ import freesvg from '../img_links/freesvg.jpg';
 import redux_toolkit from '../img_links/redux_toolkit.jpg';
 import persist from '../img_links/persist.jpg';
 import redux_i from '../img_links/redux_i.jpg';
-import sass '../img_links/npm-sass-npm_i_sass.jpg';
+import sass from '../img_links/sass.jpg';
 
 const Links = [
   {
@@ -99,13 +99,12 @@ const Links = [
     img: redux_i,
     note: 'npm install @reduxjs/toolkit npm install react-redux',
   },
-  
   {
-name:'npm-sass-npm_i_sass',
-url:'https://www.npmjs.com/package/sass',
-img:sass,
-note: 'для подключения sass',
-}
+    name: 'npm-sass-npm_i_sass',
+    url: 'https://www.npmjs.com/package/sass',
+    img: sass,
+    note: 'для подключения sass',
+  },
 ];
 
 export default Links;
