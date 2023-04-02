@@ -40,12 +40,7 @@ const Links = [
     img: nanoid,
     note: 'для создания уникального key на каждый элемент который мепаэться рандомно присваевает код',
   },
-  {
-    name: 'SVGOMG',
-    url: 'https://www.framer.com/motion/introduction/',
-    img: svgomg,
-    note: 'підготовка перед спрайтом очищюе все зайте в ',
-  },
+
   {
     name: 'цікаві анімації',
     url: 'https://www.framer.com/motion/introduction/',
@@ -58,12 +53,7 @@ const Links = [
     img: prop_types,
     note: 'створюе прототипи пропсів щоб задати тип пропса який передається типу для цього ну хз це дуже нада) [npm i prop-types]',
   },
-  {
-    name: 'сделает спрайт',
-    url: 'https://icomoon.io/app/#/select',
-    img: icon_moon,
-    note: 'зробе спрайт з іконок типу один файл з усіма іконками !головне прибрати їх колір! отак: 1.бургер меню зправа 2.properties 3.remove all colors',
-  },
+
   {
     name: 'для запитів на апі',
     url: 'https://axios-http.com/uk/docs/intro',
@@ -77,10 +67,28 @@ const Links = [
     note: 'для створення типа нових вікон в сайті але це не нова сторінка а її частина (швидка загрузка сторінки) [npm i react-router-dom]',
   },
   {
+    name: 'SVGOMG',
+    url: 'https://www.framer.com/motion/introduction/',
+    img: svgomg,
+    note: 'підготовка перед спрайтом очищюе все зайте в ',
+  },
+  {
+    name: 'сделает спрайт',
+    url: 'https://icomoon.io/app/#/select',
+    img: icon_moon,
+    note: 'зробе спрайт з іконок типу один файл з усіма іконками !головне прибрати їх колір! отак: 1.бургер меню зправа 2.properties 3.remove all colors',
+  },
+  {
     name: 'халявні SVG',
     url: 'https://www.reshot.com/free-svg-icons/arrow/?page=7',
     img: freesvg,
     note: 'халявні SVG',
+  },
+  {
+    name: 'svg8',
+    url: 'https://icons8.com/',
+    img: icons8,
+    note: 'є халявні але не всі',
   },
   {
     name: 'redux_toolkit',
@@ -105,12 +113,6 @@ const Links = [
     url: 'https://www.npmjs.com/package/sass',
     img: sass,
     note: 'для подключения sass',
-  },
-  {
-    name: 'svg8',
-    url: 'https://icons8.com/',
-    img: icons8,
-    note: 'є халявні але не всі',
   },
 ];
 
