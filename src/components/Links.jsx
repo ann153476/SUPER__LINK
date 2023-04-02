@@ -15,6 +15,7 @@ import icon_moon from '../img_links/icon_moon.jpg';
 import axios from '../img_links/axios.jpg';
 import react_dom from '../img_links/react_dom.jpg';
 import freesvg from '../img_links/freesvg.jpg';
+import icons8 from '../img_links/icons8.jpg';
 import redux_toolkit from '../img_links/redux_toolkit.jpg';
 import persist from '../img_links/persist.jpg';
 import redux_i from '../img_links/redux_i.jpg';
@@ -104,6 +105,12 @@ const Links = [
     url: 'https://www.npmjs.com/package/sass',
     img: sass,
     note: 'для подключения sass',
+  },
+  {
+    name: 'svg8',
+    url: 'https://icons8.com/',
+    img: icons8,
+    note: 'є халявні але не всі',
   },
 ];
 
