@@ -20,6 +20,7 @@ import redux_toolkit from '../img_links/redux_toolkit.jpg';
 import persist from '../img_links/persist.jpg';
 import redux_i from '../img_links/redux_i.jpg';
 import sass from '../img_links/sass.jpg';
+import swiper from '../img_links/swiper.jpg';
 
 const Links = [
   {
@@ -113,6 +114,12 @@ const Links = [
     url: 'https://www.npmjs.com/package/sass',
     img: sass,
     note: 'для подключения sass',
+  },
+  {
+    name: 'прикольные свайперы',
+    url: 'https://swiperjs.com/get-started',
+    img: swiper,
+    note: 'открывай core копируй html css styles пример в swiper test самое главное заимпортировать js css',
   },
 ];
 
