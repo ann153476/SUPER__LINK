@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/SUPER__LINK/static/css/main.9b07ac6c.css",
-    "main.js": "/SUPER__LINK/static/js/main.522ab825.js",
+    "main.js": "/SUPER__LINK/static/js/main.bd2ba0cb.js",
     "static/media/redux_toolkit.jpg": "/SUPER__LINK/static/media/redux_toolkit.2a175ff6fa1a4fff18a4.jpg",
+    "static/media/swiper.jpg": "/SUPER__LINK/static/media/swiper.6df6388bfa8a8291b932.jpg",
     "static/media/nanoid.jpg": "/SUPER__LINK/static/media/nanoid.08d8dbf1a48ef51f3777.jpg",
     "static/media/react_dom.jpg": "/SUPER__LINK/static/media/react_dom.8aa3305eee9477237546.jpg",
     "static/media/prop_types.jpg": "/SUPER__LINK/static/media/prop_types.584ad8e43eac979d4a4a.jpg",
@@ -19,10 +20,10 @@
     "static/media/cool_sound.png": "/SUPER__LINK/static/media/cool_sound.11c9ef7ad32132b88aa1.png",
     "index.html": "/SUPER__LINK/index.html",
     "main.9b07ac6c.css.map": "/SUPER__LINK/static/css/main.9b07ac6c.css.map",
-    "main.522ab825.js.map": "/SUPER__LINK/static/js/main.522ab825.js.map"
+    "main.bd2ba0cb.js.map": "/SUPER__LINK/static/js/main.bd2ba0cb.js.map"
   },
   "entrypoints": [
     "static/css/main.9b07ac6c.css",
-    "static/js/main.522ab825.js"
+    "static/js/main.bd2ba0cb.js"
   ]
 }
