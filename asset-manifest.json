@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SUPER__LINK/static/css/main.9b07ac6c.css",
-    "main.js": "/SUPER__LINK/static/js/main.bd2ba0cb.js",
+    "main.js": "/SUPER__LINK/static/js/main.fb0822ae.js",
     "static/media/redux_toolkit.jpg": "/SUPER__LINK/static/media/redux_toolkit.2a175ff6fa1a4fff18a4.jpg",
     "static/media/swiper.jpg": "/SUPER__LINK/static/media/swiper.6df6388bfa8a8291b932.jpg",
     "static/media/nanoid.jpg": "/SUPER__LINK/static/media/nanoid.08d8dbf1a48ef51f3777.jpg",
@@ -12,6 +12,7 @@
     "static/media/redux_i.jpg": "/SUPER__LINK/static/media/redux_i.15733d8f2bc59e40f642.jpg",
     "static/media/persist.jpg": "/SUPER__LINK/static/media/persist.eda0d44b6a6025ed7951.jpg",
     "static/media/icons8.jpg": "/SUPER__LINK/static/media/icons8.8b07a17f0b7216ff353f.jpg",
+    "static/media/partials.jpg": "/SUPER__LINK/static/media/partials.9de796ed377b24adf2c2.jpg",
     "static/media/freesvg.jpg": "/SUPER__LINK/static/media/freesvg.fecaa8d8fbd9e113b161.jpg",
     "static/media/motion.jpg": "/SUPER__LINK/static/media/motion.c4e06cff0c7041300a60.jpg",
     "static/media/icon_moon.jpg": "/SUPER__LINK/static/media/icon_moon.47b2cc235d823dff8913.jpg",
@@ -20,10 +21,10 @@
     "static/media/cool_sound.png": "/SUPER__LINK/static/media/cool_sound.11c9ef7ad32132b88aa1.png",
     "index.html": "/SUPER__LINK/index.html",
     "main.9b07ac6c.css.map": "/SUPER__LINK/static/css/main.9b07ac6c.css.map",
-    "main.bd2ba0cb.js.map": "/SUPER__LINK/static/js/main.bd2ba0cb.js.map"
+    "main.fb0822ae.js.map": "/SUPER__LINK/static/js/main.fb0822ae.js.map"
   },
   "entrypoints": [
     "static/css/main.9b07ac6c.css",
-    "static/js/main.bd2ba0cb.js"
+    "static/js/main.fb0822ae.js"
   ]
 }
