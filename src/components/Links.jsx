@@ -21,6 +21,8 @@ import persist from '../img_links/persist.jpg';
 import redux_i from '../img_links/redux_i.jpg';
 import sass from '../img_links/sass.jpg';
 import swiper from '../img_links/swiper.jpg';
+import partial from '../img_links/partials.jpg';
+
 
 const Links = [
   {
@@ -121,6 +123,12 @@ const Links = [
     img: swiper,
     note: 'открывай core копируй html css styles пример в swiper test самое главное заимпортировать js css',
   },
+  {
+name:'partials <include> html',
+url:'https://www.npmjs.com/package/posthtml-include?activeTab=readme',
+img:partial,
+note: 'для корирования кода html через тег include важно продумать структуру страниц бо там ебаться с путями ../../',
+}
 ];
 
 export default Links;
