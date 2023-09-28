@@ -22,7 +22,7 @@ import redux_i from '../img_links/redux_i.jpg';
 import sass from '../img_links/sass.jpg';
 import swiper from '../img_links/swiper.jpg';
 import partial from '../img_links/partials.jpg';
-
+import uiverse from '../img_links/uiverse.jpg';
 
 const Links = [
   {
@@ -124,11 +124,17 @@ const Links = [
     note: 'открывай core копируй html css styles пример в swiper test самое главное заимпортировать js css',
   },
   {
-name:'partials <include> html',
-url:'https://www.npmjs.com/package/posthtml-include?activeTab=readme',
-img:partial,
-note: 'для корирования кода html через тег include важно продумать структуру страниц бо там ебаться с путями ../../',
-}
+    name: 'partials <include> html',
+    url: 'https://www.npmjs.com/package/posthtml-include?activeTab=readme',
+    img: partial,
+    note: 'для корирования кода html через тег include важно продумать структуру страниц бо там ебаться с путями ../../',
+  },
+  {
+    name: 'uiverse',
+    url: 'https://uiverse.io/all',
+    img: uiverse,
+    note: 'куча крутых кнопок и тд.',
+  },
 ];
 
 export default Links;
